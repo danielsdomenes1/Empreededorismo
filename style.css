@@ -1,0 +1,21 @@
+img{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+p {
+    width: 50%;
+}
+h1{
+    color: rgb(2, 18, 255);
+}
+.name{
+    color: #6c0909;
+}
+.data{
+    color: #005e2dde;
+}
+.tudo{
+   color: hsl(33, 91%, 50%);
+}
