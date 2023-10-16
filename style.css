@@ -3,6 +3,9 @@ img{
     margin: 0 auto;
     display: block;
 }
+.images{
+    width: 35%;
+}
 
 p {
     width: 50%;
@@ -11,11 +14,14 @@ h1{
     color: rgb(2, 18, 255);
 }
 .name{
-    color: #6c0909;
+    color: #ff0000;
 }
 .data{
-    color: #005e2dde;
+    color: #05fe01;
 }
 .tudo{
    color: hsl(33, 91%, 50%);
+}
+.dani{
+    color: #f402d4;
 }
