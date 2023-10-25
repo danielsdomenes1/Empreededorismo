@@ -1,17 +1,28 @@
+
+.menu{
+    min-width: 320px;
+    color: #fff;
+    background-color: #132f5c;
+    height:100px;
+}
+.menu h1{
+    text-align: center;
+}
+body{
+    font-size:20px;
+}
 img{
-    width: 50%;
+    width: 40%;
     margin: 0 auto;
     display: block;
 }
 .images{
     width: 35%;
+    height: 750px;
 }
 
 p {
     width: 50%;
-}
-h1{
-    color: rgb(2, 18, 255);
 }
 .name{
     color: #ff0000;
